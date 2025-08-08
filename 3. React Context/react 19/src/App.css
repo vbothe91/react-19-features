@@ -1,0 +1,37 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+.header {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0 8px 6px -6px #ccc;
+}
+.cart {
+  display: inline-block;
+  width: 95%;
+  text-align: right;
+  font-size: 35px;
+  padding: 5px;
+}
+.cart-items {
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  background-color: #ccc;
+  right: 63px;
+  padding: 15px;
+  list-style-type: none;
+  font-size: 17px;
+  overflow-y: auto;
+  text-align: left;
+  margin-top: 10px;
+  color: #242424;
+}
+.cart-items li {  
+  padding: 10px;
+  border-bottom: 1px dotted #242424;
+}
