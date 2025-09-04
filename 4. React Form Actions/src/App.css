@@ -1,0 +1,11 @@
+#root {
+  width: 500px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+input {
+  width: 90%;
+  height: 1.5rem;
+  margin-bottom: 1rem;
+}
