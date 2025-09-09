@@ -5,3 +5,6 @@ As a part of this repository we will add all the react 19 features with practica
 2. Ref and ForwardRef (With React 19 forwardRef is no more needed)
 3. React Context (React 19 context improvements)
 4. React Form Actions (useActionState)
+5. React Optimistic Updates
+
+Youtube Playlist - https://youtube.com/playlist?list=PLrJ-e9wsoQTGcdmhsWFyFCi1MD5rK8YFr&feature=shared
